@@ -2,7 +2,7 @@
 
 **Stable Matching** : [Wiki](https://en.wikipedia.org/wiki/Stable_marriage_problem)
 
-# SeatAllocation
+# JOSAA Seat Allocator
 
 We developed a web platform similar to https://josaa.nic.in 
 (It is the official counseling platform to allocate seats to JEE candidates)
